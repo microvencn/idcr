@@ -1,0 +1,1 @@
+If you would like to add a dataset to this project, please follow the guidelines provided in [Causal-TGAN](https://github.com/BiggyBing/CausalTGAN)

@@ -1,0 +1,13 @@
+Graph Nodes:
+race;LSAT;ZFYA;sex;UGPA
+
+Graph Edges:
+1. LSAT --> ZFYA
+2. UGPA --> ZFYA
+3. race --> LSAT
+4. race --> UGPA
+5. race --> ZFYA
+6. sex --> LSAT
+7. sex --> UGPA
+8. sex --> ZFYA
+

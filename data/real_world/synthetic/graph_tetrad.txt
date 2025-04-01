@@ -1,0 +1,9 @@
+Graph Nodes:
+X1;X2;A;Y
+
+Graph Edges:
+1. A --> X2
+2. A --> Y
+3. X1 --> Y
+4. X2 --> Y
+
